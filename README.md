@@ -1,4 +1,4 @@
-< [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/nkp-network-services/blob/main/README.md) >
+< [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking/blob/main/README.md) >
 
 ## CompTIA Network+ - Course Material 2022
 
@@ -12,8 +12,8 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ### Topic: 
 
-``Network Services`` 
+``Concepts and Characteristics of Networking`` 
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/SeanOhAileasa/nkp-network-services/blob/main/nkp-network-services.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking/blob/main/nkp-concepts-and-characteristics-of-networking.ipynb)
 
 ## END
